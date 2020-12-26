@@ -2,10 +2,6 @@
 
 # Liver Disease Prediction
 
-Read [this](https://blog.usejournal.com/demystifying-classification-algorithms-and-evaluation-metrics-c915f18f9dff) article to know how this project was created from scratch.
-
-#### -- Project Status: [Active]
-
 ### Project Intro/Objective
 People with Liver disease are dramatically increasing due to excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, drugs, etc. This project aims to predict the onset of the disease.
 
