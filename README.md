@@ -1,4 +1,4 @@
-# Liver-Desease-Prediction-with-LogisticReg-KNN-KMeans-SVM-DTree-RForest-AdaBoost-GradBoost
+# Liver-Disease-Prediction-with-LogisticReg-KNN-KMeans-SVM-DTree-RForest-AdaBoost-GradBoost
 
 # Liver Disease Prediction
 
