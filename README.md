@@ -13,14 +13,14 @@ The data for this project was obtained from Kaggle. This data set contains 416 l
 * Explatory Data Analysis
 * Data Visualization
 * Machine Learning - Supervised Learning Algorithms
-  * Decision Trees
-  * KNN
+  * Decision Trees (86.36 % Accuracy)
+  * KNN (80.36 % Accuracy)
   * K Nearest Neighbors
-  * Logistic Regression
-  * Support Vector Machines
-  * Random Forest
-  * AdaBoost Classifier
-  * GradBoost Classifier
+  * Logistic Regression (82.20 % Accuracy)
+  * Support Vector Machines (87.66 % Accuracy)
+  * Random Forest (83.11% Accuracy)
+  * AdaBoost Classifier (80.98 % Accuracy)
+  * GradBoost Classifier (88.95 % Accuracy)
 * Evaluation Metrics
   * Jaccard Index
   * F1-Score
