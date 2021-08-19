@@ -5,6 +5,13 @@
 ### Project Intro/Objective
 People with Liver disease are dramatically increasing due to excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, drugs, etc. This project aims to predict the onset of the disease.
 
+![](Images/L1.JPG)
+![](Images/L2.JPG)
+![](Images/L3.JPG)
+![](Images/L4.JPG)
+![](Images/L5.JPG)
+![](Images/L6.JPG)
+
 ### About data
 The data for this project was obtained from Kaggle. This data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a *class label* used to divide groups into liver disease patient or not. This data set contains 441 male patient records and 142 female patient records. Later the Data has been balanced as 383 GOOD Liver & 383 BAD Liver
 
