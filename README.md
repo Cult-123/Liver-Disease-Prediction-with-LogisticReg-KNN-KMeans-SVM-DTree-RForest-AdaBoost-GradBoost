@@ -22,7 +22,6 @@ The data for this project was obtained from Kaggle. This data set contains 416 l
 * Machine Learning - Supervised Learning Algorithms
   * Decision Trees (86.36 % Accuracy)
   * KNN (80.36 % Accuracy)
-  * K Nearest Neighbors
   * Logistic Regression (82.20 % Accuracy)
   * Support Vector Machines (87.66 % Accuracy)
   * Random Forest (83.11% Accuracy)
