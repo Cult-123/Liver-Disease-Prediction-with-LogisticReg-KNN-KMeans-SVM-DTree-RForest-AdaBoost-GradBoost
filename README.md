@@ -5,7 +5,7 @@
 ### Project Intro/Objective
 People with Liver disease are dramatically increasing due to excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, drugs, etc. This project aims to predict the onset of the disease.
 
-![](Images/L1.JPG)
+![](Images/L7.JPG)
 ![](Images/L2.JPG)
 ![](Images/L3.JPG)
 ![](Images/L4.JPG)
